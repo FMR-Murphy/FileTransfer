@@ -1,0 +1,34 @@
+PODS:
+  - Masonry (1.1.0)
+  - PromisesObjC (2.0.0)
+  - ReactiveObjC (3.1.1)
+  - SGQRCode (4.1.0)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - Masonry
+  - PromisesObjC
+  - ReactiveObjC
+  - SGQRCode (~> 4.1.0)
+  - YYKit
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - PromisesObjC
+    - ReactiveObjC
+    - SGQRCode
+    - YYKit
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  PromisesObjC: 68159ce6952d93e17b2dfe273b8c40907db5ba58
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  SGQRCode: 6ad664d63f38f2842503bc5087812c5a3136d924
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 6b15dd924ac4c693a9f947d8b4cb665a13825cbe
+
+COCOAPODS: 1.11.2
